@@ -1,6 +1,6 @@
-# Simple Twitter UI
-![Design preview for Simple Twitter UI](./design/desktop-design.png)
+# Twitter Landing Page
+![Design preview for landing page for Twitter](./design/desktop-design.png)
 
 ## Welcome! 👋
 
-A simple UI for Twitter.
+A landing page for Twitter.
