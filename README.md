@@ -1,5 +1,5 @@
 # Simple Twitter UI
-![Design preview for Simple Twitter UI](./design/desktop-design.jpg)
+![Design preview for Simple Twitter UI](./design/desktop-design.png)
 
 ## Welcome! 👋
 
